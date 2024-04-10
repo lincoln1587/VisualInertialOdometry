@@ -2,7 +2,7 @@
 
 <launch>
 
-    <!-- ARGS -->
+    <!-- ARGS Params -->
     <arg name="rvizfile"    default = "$(find gtsam_backend)/../../rviz/mvsec_test.rviz" />
     <arg name="config_path" default = "$(find gtsam_backend)/../../config/mvsec_vins_config.yaml" />
     <arg name="vins_folder" default = "$(find feature_tracker)/../" />

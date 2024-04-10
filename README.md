@@ -1,4 +1,4 @@
-# VisualInertialOdometry
+# VisualInertialOdometry for 2024 VisNAV Course
 
 ## Introduction
 
