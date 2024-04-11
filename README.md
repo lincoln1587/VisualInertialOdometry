@@ -1,8 +1,8 @@
-# VisualInertialOdometry for 2024 VisNAV Course
+# VisualInertialOdometry for Mobile Robots Course 2024
 
 ## Introduction
 
-This project is designed for students to learn the front-end and back-end in a Simultaneous Localization and Mapping (SLAM) system. The objective is that using feature_tracker in [VINS-MONO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) as front-end, and [GTSAM](https://github.com/borglab/gtsam) as back-end to implement a visual inertial odometry (VIO) algorithm for real-data collected by a vehicle: [The MVSEC Dataset](https://daniilidis-group.github.io/mvsec/). The code is modified based on original code from [CPI](https://github.com/rpng/cpi).
+This project is designed for students to learn the front-end and back-end in a Simultaneous Localization and Mapping (SLAM) system. The objective is that using feature_tracker in [VINS-MONO](https://github.com/HKUST-Aeripal-Robotics/VINS-Mono) as front-end, and [GTSAM](https://github.com/borglab/gtsam) as back-end to implement a visual inertial odometry (VIO) algorithm for real-data collected by a vehicle: [The MVSEC Dataset](https://daniilidis-group.github.io/mvsec/). The code is modified based on original code from [CPI](https://github.com/rpng/cpi).
 
 Specifically, we are learning how to utilize a front-end package and use IMUFactor, SmartProjectionPoseFactor and ISAM2 optimizer in GTSAM to achieve a simple but straight-forward VIO system.
 
